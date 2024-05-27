@@ -25,6 +25,4 @@
 - **Email:** gabriellucca01@hotmail.com
 - **LinkedIn:** [Gabriel de Lucca](https://www.linkedin.com/in/gabriel-de-lucca-972994214/)
 
----
 
-**_"Transformando ideias em código!"_**
